@@ -1,0 +1,9 @@
+[package]
+name = "tcreg"
+version = "0.1.0"
+authors = ["hetao <yechaht@gmail.com>"]
+
+[dependencies]
+winapi = "0.2"
+user32-sys = "0.2"
+advapi32-sys = "0.2"
